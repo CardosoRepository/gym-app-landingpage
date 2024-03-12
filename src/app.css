@@ -53,6 +53,6 @@ button:focus, button:focus-visible {
 }
 
 .specialBtnDark {
-    border: #646cff;
+    background: #646cff;
     color: white;
 }
