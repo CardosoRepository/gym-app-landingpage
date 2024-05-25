@@ -1,5 +1,5 @@
 <h1 align="center">
-  Svelte Gym Landing Page
+  Gym Landing Page
 </h1>
 
 <p align="center">
@@ -11,16 +11,17 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Svelte Kit](https://kit.svelte.dev/)
-- [Bootstrap](https://getbootstrap.com/docs/3.4/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Vite](https://vitejs.dev)
 
 ## 💻 Projeto
 
-O Svelte Gym Landing Page é uma landing page de um site para academia
+O Gym Landing Page é uma landing page de um site para academia
 
 ## 🔖 Acesso
 
-https://angular-basics-9f4ab.web.app
+[Gym Landing Page](https://gymlandingpage-1.netlify.app)
 
 ## 🚀 Como executar
 
